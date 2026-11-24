@@ -1,5 +1,4 @@
-# srushti
-# 👋 Hi, I'm Srushti L.
+﻿# 👋 Hi, I'm Srushti L.
 
 ### B.E. Artificial Intelligence & Data Science Student
 
@@ -24,6 +23,14 @@ I enjoy learning by trying things out, building projects, and understanding how 
 ### 🚀 My Goal
 
 To keep learning, build meaningful projects, improve my problem-solving skills, and grow as a developer.
+
+---
+
+### 🛠️ Projects
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| **AquaShield AI** | Smart Fish Farm Security Platform – AI-powered intrusion detection using YOLO + OpenCV. React frontend with real-time CCTV monitoring, alerts & analytics. | [🌐 fishformprojection.vercel.app](https://fishformprojection.vercel.app/) |
 
 ---
 
